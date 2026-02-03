@@ -2,32 +2,14 @@
 
 ###
 
-<img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
+<br clear="both">
+
+<img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
 
 ###
 
 <div align="left">
   <img height="160" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
-</div>
-
-###
-
-<h1 align="left">About Me 💫</h1>
-
-###
-
-<p align="left">🔭 I’m currently working on: upscaling my technical skills in the IT industry.<br><br>👯 I’m looking to collaborate on: cloud-native projects , open-source automation tools , or technical community workshops.<br><br>🤝 I’m looking for help with: mastering advanced Site Reliability Engineering (SRE) practices, complex multi-cloud architectures , and on-premise architecture.<br><br>🌱 I’m currently learning: new tools to upscale my technical expertise and deepen my knowledge, such as Argo CD, DevSecOps tools, and MLOps tools.<br><br>💬 Ask me about: Docker , Jenkins , Ansible , Terraform , Kubernetes , Computer Networks , or Linux System Administration.<br><br>⚡ Fun fact: I love watching football so much that I'll find a way to watch a match even when I have absolutely no time to spare and know I'm probably wasting it.</p>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/abdelhameed-nael-18762b282" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/602885986778742790" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
 ###
@@ -62,6 +44,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+</div>
+
+###
+
+<h1 align="left">About Me 💫</h1>
+
+###
+
+<p align="left">🔭 I’m currently working on: upscaling my technical skills in the IT industry.<br><br>👯 I’m looking to collaborate on: cloud-native projects , open-source automation tools , or technical community workshops.<br><br>🤝 I’m looking for help with: mastering advanced Site Reliability Engineering (SRE) practices, complex multi-cloud architectures , and on-premise architecture.<br><br>🌱 I’m currently learning: new tools to upscale my technical expertise and deepen my knowledge, such as Argo CD, DevSecOps tools, and MLOps tools.<br><br>💬 Ask me about: Docker , Jenkins , Ansible , Terraform , Kubernetes , Computer Networks , or Linux System Administration.<br><br>⚡ Fun fact: I love watching football so much that I'll find a way to watch a match even when I have absolutely no time to spare and know I'm probably wasting it.</p>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/abdelhameed-nael-18762b282" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/602885986778742790" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
 ###
